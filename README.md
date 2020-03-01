@@ -11,6 +11,9 @@ This puzzle maintains that the output hash is
 - has a valid number of trailing zeroes.
 
 
+We have to convert parent hashes into hex format, so a hash such as `21e800000a0782feaf894b082904c2b3151510b030b7dbddcba0a0c717d1d594` would be converted into 
+`32316538303030303061303738326665616638393462303832393034633262333135313531306230333062376462646463626130613063373137643164353934`.
+
 There are two different formats. One for an even number of trailing zeroes, one for an odd number of trailing zeroes.
 
 
