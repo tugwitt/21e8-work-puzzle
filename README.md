@@ -16,6 +16,7 @@ We have to convert parent hashes into hex format, so a hash such as `21e800000a0
 
 There are two different formats. One for an even number of trailing zeroes, one for an odd number of trailing zeroes.
 
+All of these examples can be tried out in either [Scrypt Debugged](http://scrypt.studio/) or [Learn on Chain](http://learnonchain.com/script).
 
 ## Even Difficulty
 
