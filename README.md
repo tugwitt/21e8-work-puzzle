@@ -3,7 +3,9 @@
 **Don't assume this is safe. A miner can steal your outputs if they wanted to**
 
 
-**EDIT**: So definitely don't use this for anything that you care about
+**EDIT**: *So definitely don't use this for anything that you care about. It's not safe*
+
+---
 
 
 A work puzzle for solving 21e8 hashes with a given 21e8 parent. This puzzle format allows for users to ask for a child
